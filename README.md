@@ -53,7 +53,6 @@ Live Demo: https://color-pelette-generator.vercel.app/
 
 ⚙️ Installation & Setup
 
-If your project uses Node.js or a frontend build tool like Vite/React:
 
 # 1. Clone the repository
 git clone https://github.com/iamyoussefezzat/colorpelette-generator.git
