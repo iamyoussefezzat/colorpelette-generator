@@ -84,7 +84,7 @@ background: linear-gradient(90deg, #34A853 0%, #2A73D6 100%);
 
 ---
 
-🗂️ Project Structure (Example)
+🗂️ Project Structure 
 
 ├── index.html
 ├── src/
