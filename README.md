@@ -59,22 +59,9 @@ If your project uses Node.js or a frontend build tool like Vite/React:
 git clone https://github.com/iamyoussefezzat/colorpelette-generator.git
 cd colorpelette-generator
 
-# 2. Install dependencies
-npm install
-# or
-yarn
 
-# 3. Run the development server
-npm run dev
-# or
-yarn dev
 
-# 4. Build for production
-npm run build
-# or
-yarn build
-
-> 💡 If it’s a simple HTML/CSS/JS project, you can just open index.html in your browser.
+💡 you can just open index.html in your browser.
 
 
 
