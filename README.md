@@ -1,8 +1,6 @@
 🎨 ColorPalette Generator
 
-> A lightweight and simple color palette generator — create beautiful, harmonious color sets and gradients for your web designs or apps in seconds.
-
-
+ A lightweight and simple color palette generator — create beautiful, harmonious color sets and gradients for your web designs or apps in seconds.
 
 
 ---
